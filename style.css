@@ -60,3 +60,13 @@ footer ul {
   gap: 1em;
   padding: 0;
 }
+.features {
+  padding: 40px;
+  text-align: center;
+}
+.feature-card {
+  background: #f4f4f4;
+  padding: 20px;
+  width: 200px;
+  border-radius: 10px;
+}
